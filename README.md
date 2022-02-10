@@ -10,6 +10,7 @@ Estos cambiso son nuevos
 ## Adicional
 
 Pruebas adicionales rebase
+
 ## prueba conflicto
 
 Esta es una prueba
